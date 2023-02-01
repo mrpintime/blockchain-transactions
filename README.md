@@ -6,15 +6,14 @@ Live tracking and analysis of millions of transactions. **Program is currently i
 
 ### How it work:
 
-* Run program then run this method **showLive()** then program will show you details.  
-**Note :** every time you want to get new transactions you have to create new instance from **BitBlock()** class 
-
-### Methods:
+* Run ```main(realTime=false)``` function and set **realTime** to **True** then program will show you details.  
+**Note :** when you set **realTime** to **True**, for interrupt the running code you can stop kernel.
 
 ``` python
-showLive()
+main(realTime=False)
 ```
-> return list of live transactions
+> if you set **realTime** to **False** it will return one list of transactions at the moment.***(default)***  
+> if you set **realTime** to **True** it will return a list of transactions every 5 second.
 
 ### What details will the program show ?
 explore it you will find interested things :yum:
