@@ -1,4 +1,4 @@
-![FlightNews-cover](https://github.com/mrpintime/flight-news/blob/main/assets/cover.jpeg)
+![BlockChain-cover](https://github.com/mrpintime/flight-news/blob/main/assets/cover.jpg)
 
 # Blockchain-transactions
 Live tracking and analysis of millions of transactions. 
