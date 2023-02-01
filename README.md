@@ -6,8 +6,8 @@ Live tracking and analysis of millions of transactions. **Program is currently i
 
 ### How it work:
 
-* Run program then run this method **showLive()** then program will show you details.*  
-**Note :** every time you want to get new transactions you have to create new instance from BitBlock() class 
+* Run program then run this method **showLive()** then program will show you details.  
+**Note :** every time you want to get new transactions you have to create new instance from **BitBlock()** class 
 
 ### Methods:
 
