@@ -2,7 +2,7 @@
 
 
 # Blockchain-transactions
-Live tracking and analysis of millions of transactions. **Program is currently in ‌BETA version**
+Simple live tracking and analysis of millions of transactions. **Program is currently in ‌BETA version**
 
 ### How it work:
 
